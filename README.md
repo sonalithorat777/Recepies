@@ -5,3 +5,5 @@ burger
 
 Vadapav
 IceCream
+rice
+daal
